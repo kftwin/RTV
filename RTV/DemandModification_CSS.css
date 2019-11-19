@@ -1,0 +1,18 @@
+@CHARSET "UTF-8";
+#headstyle
+	{
+	color:blue;
+	text-align: center;
+	
+}
+
+
+	.tablestyle{
+	
+	vertical-align:middle;
+	margin-left:5.5in;
+	table-layout: fixed;
+	text-align: center;
+	
+	}
+	
